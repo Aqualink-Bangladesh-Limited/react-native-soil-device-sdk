@@ -1,6 +1,6 @@
 {
   "name": "react-native-soil-device-sdk",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publishConfig": {
     "access": "public"
   },
@@ -18,11 +18,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/your-org/react-native-soil-device-sdk.git"
+    "url": "git+https://github.com/Aqualink-Bangladesh-Limited/react-native-soil-device-sdk.git"
   },
-  "homepage": "https://github.com/your-org/react-native-soil-device-sdk#readme",
+  "homepage": "https://github.com/Aqualink-Bangladesh-Limited/react-native-soil-device-sdk#readme",
   "bugs": {
-    "url": "https://github.com/your-org/react-native-soil-device-sdk/issues"
+    "url": "https://github.com/Aqualink-Bangladesh-Limited/react-native-soil-device-sdk/issues"
   },
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
