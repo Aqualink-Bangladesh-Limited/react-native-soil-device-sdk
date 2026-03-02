@@ -14,11 +14,6 @@ cd SoilDemoApp
 yarn add ../react-native-soil-device-sdk
 ```
 
-3) Install peer deps:
-```bash
-yarn add @react-native-async-storage/async-storage @react-native-community/netinfo
-```
-
 4) Replace your `App.tsx` with one of the example apps here:
 - `example/src/App.useState.tsx`
 - or pick a state management folder under `example/src/state/*`
